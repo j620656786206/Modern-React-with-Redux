@@ -19,7 +19,7 @@ import { bindActionCreators } from 'redux';
 
     render() {
         return (
-            <ul className=""list-group col-md-4>
+            <ul className="list-group col-md-4">
                 {this.renderList()}
             </ul>
         )
